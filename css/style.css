@@ -1,1 +1,12 @@
 /* mi hoja de estilos  */
+
+body {
+  height:1024px;
+}
+
+.alture {
+  width:80%;
+  height:50vh;
+  background-color: black;
+  margin:0 auto;
+}
